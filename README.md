@@ -2,7 +2,7 @@
 I am a computer science student at the Silesian University of Technology, approaching my last semester. I have been programming for a few years and am still eager to learn more about computer architecture - memory, CPUs, GPUs, and a lot of other low-level things. I value my sense for memory management, performance, data structures and solid foundations.
 
 # My projects 📝
-## Solo Graphics / Game development
+## Solo Graphics / Game development 🔺
 I am most passionate about 3D programming, for now I am using only OpenGL (I plan to learn Vulkan eventually) as my API of choice. I also enjoy programming anything to do with graphics, 3D or 2D, also using libraries (or __a__ library - [SFML](https://github.com/SFML/SFML)).
 Using those I have made many projects over the years (especially SFML, I used it a lot when I was still learning a lot of basic things, hence not everything is here / I won't highlight every):
 
@@ -10,7 +10,7 @@ Using those I have made many projects over the years (especially SFML, I used it
  - [Arcade Survival - 2D shoot'em up arena](https://github.com/KomorXD/ArcadeSurvival) (university project)
  - [Game of Life](https://github.com/KomorXD/Game-of-Life-OpenGL)
 
-## University projects / assignments
+## University projects / assignments 🏫
 For most of my university projects I have been working with a team of my colleagues, utilizing various tools and methods to make our workflow as smooth as possible (thanks to a common team manager), those being mainly managed GitHub repos, Kanban, SCRUM-like meetings and specifying roles for each team member.
 Those projects are:
 
