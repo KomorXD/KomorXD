@@ -28,11 +28,12 @@ My tech stack mainly consists of:
  - C#
  - Also learning: Rust
 
+<div align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=komorxd&show_icons=true&locale=en&layout=compact&theme=aura_dark"/>
+</div>
+
 I also am capable of quickly learning new skills / technologies, which makes me very flexible in case of any changes/opportunities.
 
 # Contact
 Either contact me via e-mail (pkupczak.business@gmail.com), or with my [LinkedIn](https://www.linkedin.com/in/pawe%C5%82-kupczak-529423276/) profile
 
-<div align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=komorxd&show_icons=true&locale=en&layout=compact&theme=aura_dark"/>
-</div>
