@@ -35,6 +35,6 @@ I also am capable of quickly learning new skills / technologies, which makes me 
 </div>
 
 
-# Contact
+# Contact ✉
 Either contact me via e-mail (pkupczak.business@gmail.com), or with my [LinkedIn](https://www.linkedin.com/in/pawe%C5%82-kupczak-529423276/) profile
 
