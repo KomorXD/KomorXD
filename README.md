@@ -24,6 +24,7 @@ My tech stack mainly consists of:
  - C/C++ (with CMake)
  - OpenGL
  - Python
+ - Svelte/Kit
  - JavaScript/TypeScript
  - C#
  - Also learning: Rust
